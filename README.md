@@ -1,34 +1,4 @@
-[![header](https://pbs.twimg.com/profile_banners/4539400881/1613214971/1500x500)](https://www.jstips.co/book/?utm_source=github&utm_medium=header&utm_campaign=book&utm_content=pro)
-
-# JS Tips [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-> Useful JavaScript tips
-
-This is an awesome project about short and useful JavaScript tips that will allow you to improve your code writing. With less than 2 minutes, you will be able to read about performance, conventions, hacks, interview questions and all the items that the future of this awesome language holds for us.
-
-Tips are added frequently (read further if you want to stay in touch).
-
-## Support the community
-
-If you found a JS Tip useful or you like a writer of the community now you are able to show some respect and support with a tip!
-
-### Can you help us enrich it?
-
-Sure, you can help the project in two ways, sending your tip or reviewing future tips.
-Any improvements or suggestions are more than welcome!
-[Instructions are here](https://github.com/loverajoel/jstips/blob/master/CONTRIBUTING.md).
-
-### Let’s keep in touch
-
-There are a lot of ways to get updates, choose your own
-
-- [Official Blog](http://www.jstips.co)
-- [Official Twitter Account](https://twitter.com/tips_js)
-- [Hubot](https://github.com/dggriffin/hubot-jstips)
-- [Slackbot](https://github.com/radibit/js-tips-slack-bot)
-- [iOS App](https://goo.gl/Y9WiBc)
-
-> Don't forget to Star★ the repo, as this helps promoting the project!
+这是一个很棒的项目，关于简短而有用的 JavaScript 技巧，可让您改进代码编写。在不到 2 分钟的时间内，您将能够阅读有关性能、约定、技巧、面试问题。
 
 # Tips list
 
