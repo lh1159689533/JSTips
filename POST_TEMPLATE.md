@@ -1,17 +1,8 @@
 ---
-layout: *post
-
-title: Demo post
+title: 标题
 tip-number: xx
-tip-username: tip_js
-tip-username-profile: https://twitter.com/tips_js
-tip-tldr: Just a demo
-<!-- tip-writer-support: Paypal, Coinbase, Etc -->
-<!-- tip-translator-support: Paypal, Coinbase, Etc -->
-
-categories:
-    - en
+tip-username: 贡献者
+tip-tldr: 简介
 ---
 
-content here
-### Subtitles format
+内容

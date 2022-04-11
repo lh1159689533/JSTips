@@ -1,15 +1,8 @@
 ---
-layout: post
-
 title: 如何正确的判断一个字符串是否为JSON字符串
-tip-number: 70
+tip-number: 72
 tip-username: LiuH
-tip-username-profile: https://github.com/lh1159689533
 tip-tldr: 很多时候我们需要在将一个字符串转为JSON时先判断该字符串是否为一个JSON字符串，如果是则转为JSON，否则直接返回默认值。
-
-categories:
-    - zh_CN
-    - javascript
 ---
 
 
